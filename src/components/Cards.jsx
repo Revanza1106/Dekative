@@ -27,7 +27,7 @@ const Cards = () => {
                       <p className='text-gray-600 text-xl'>Embark on a creative journey that covers Graphic Design, Art Design, and Illustrator three dynamic disciplines that blend artistic expression with practical skills.</p>
                   </div>
                   <div className='bg-slate-100 pl-8 py-4'>
-                      <p className='flex items-center text-indigo-600'>Contact Us </p>
+                      <p className='flex items-center text-purple-700'>Contact Us </p>
                   </div>
               </div>
               <div className='bg-gray-200 rounded-xl shadow-2xl'>
@@ -37,7 +37,7 @@ const Cards = () => {
                       <p className='text-gray-600 text-xl'>Step into the dynamic realm of Video Production, where creativity meets technology to craft compelling visual stories. from concept to final edit,.</p>
                   </div>
                   <div className='bg-slate-100 pl-8 py-4'>
-                      <p className='flex items-center text-indigo-600'>Contact Us </p>
+                      <p className='flex items-center text-purple-700'>Contact Us </p>
                   </div>
               </div>
               <div className='bg-white rounded-xl shadow-2xl'>
@@ -47,7 +47,7 @@ const Cards = () => {
                       <p className='text-gray-600 text-xl'>Embark on a fascinating journey of Web Programming,This comprehensive Community is your gateway to mastering web development.</p>
                   </div>
                   <div className='bg-slate-100 pl-8 py-4'>
-                      <p className='flex items-center text-indigo-600'>Contact Us</p>
+                      <p className='flex items-center text-purple-700'>Contact Us</p>
                   </div>
               </div>
           </div>

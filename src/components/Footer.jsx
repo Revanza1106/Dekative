@@ -10,10 +10,10 @@ const Footer = () => {
   return (
     <div className='max-w-[1240px] mx-auto py-16 px-4 grid lg:grid-cols-3 gap-8 text-gray-300'  id='contact'>
       <div>
-        <h1 className='w-full text-3xl font-bold text-black'>DE<span className='text-blue-700'>K</span>ATIVE<span className='text-blue-700'>.</span></h1>
-        <p className='py-4 text-blue-700'>Growing together with us.</p>
+        <h1 className='w-full text-3xl font-bold text-black'>DE<span className='text-purple-700'>K</span>ATIVE<span className='text-purple-700'>.</span></h1>
+        <p className='py-4 text-purple-700'>Growing together with us.</p>
         <div className='flex justify-between md:w-[75%] my-6'>
-            <FaFacebookSquare className='text-blue-700' size={30} />
+            <FaFacebookSquare className='text-purple-700' size={30} />
            <a href="https://www.instagram.com/dekative.team/">
            <FaInstagram className='text-pink-600'  size={30} />
             </a> 
@@ -31,7 +31,7 @@ const Footer = () => {
         </ul>
     </div>
     <div>
-        <h6 className='font-medium text-blue-700'>Support</h6>
+        <h6 className='font-medium text-purple-700'>Support</h6>
         <ul className='text-gray-600'>
             <li className='py-2 text-sm'>Pricing</li>
             <li className='py-2 text-sm'>Documentation</li>
@@ -50,7 +50,7 @@ const Footer = () => {
         </ul>
     </div>
     <div>
-        <h6 className='font-medium text-blue-700'>Legal</h6>
+        <h6 className='font-medium text-purple-700'>Legal</h6>
         <ul className='text-gray-600'>
             <li className='py-2 text-sm'>Claim</li>
             <li className='py-2 text-sm'>Policy</li>
